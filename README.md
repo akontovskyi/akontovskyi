@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey guys, I'm Andrii
+##### Studying CS - AI & Cybersecurity at Brunel University
+##### Looking to work in AI Safety & Security
+##### Project I'm working at the moment: Defending agents from Prompt Injection
 
 <!--
 **akontovskyi/akontovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
